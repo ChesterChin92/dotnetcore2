@@ -77,7 +77,7 @@ Appendix : Routing Internals
   ```
 ![](https://raw.githubusercontent.com/AlexTang0620/aspdotnet_gif/master/module3-gif/change-startup-cs.gif)
 
-> **Note To Chester** Unknown Reason Unable to overwrite route mapping
+
   - Run the site and verify your middleware is hit via routing (Ctrl+F5)
   - Add another route that matches a sub-path:
 
